@@ -8,7 +8,7 @@
 
   
 
-- The last projects we released is [GOB.DO](https://www.gob.do/)
+- The last project we released was [GOB.DO](https://www.gob.do/)
 
   
 
