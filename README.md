@@ -4,11 +4,7 @@
 
   
 
-- 🔭 I’m currently working on [Becas](https://becas.gob.do)
 
-  
-
-- The last project we released was [GOB.DO](https://www.gob.do/)
 
   
 
